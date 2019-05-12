@@ -2,7 +2,7 @@
 
 header
 {
-	background: url(img/separateur.png) repeat-x bottom;
+	background: url(https://user-images.githubusercontent.com/40268008/57588662-b1407580-7517-11e9-989d-11ba0b931654.png) repeat-x bottom;
 }
 
 h1
@@ -23,7 +23,7 @@ h1
 
 body
 {
-	background-image: url(img/fond_jaune.png);
+	background-image: url(https://user-images.githubusercontent.com/40268008/57588659-b0a7df00-7517-11e9-9c35-a2d90aaff9ea.png);
 	font-family: 'Trebuchet MS', Arial, sans-serif;
 	color: #111;
 }
